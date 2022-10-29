@@ -1,0 +1,25 @@
+#TituloArt1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 50px;    
+}
+
+#p1Art1{
+    color: rgb(7, 94, 194);
+    border: 2px solid red;
+}
+
+#p2Art2{
+    color: rgb(146, 237, 146);
+    margin: 10px;
+}
+
+#articoBody{
+    background-color: rgb(220, 202, 144);
+}
+
+#articoTitle{
+    color: blue;
+    background-color: gray;
+    border: 3px outset red;
+}
